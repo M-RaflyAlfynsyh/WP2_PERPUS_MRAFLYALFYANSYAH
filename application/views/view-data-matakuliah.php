@@ -7,7 +7,7 @@
         <table>
         <tr>
             <th colspan="3">
-            Tampil Data Mata Kuliah
+            Tampil Data Mataa Kuliah
         </th>
         </tr>
         <tr>
