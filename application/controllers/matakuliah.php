@@ -21,9 +21,9 @@
         $this->load->view('view-form-matakuliah');
     } else {
         $data = [
-            'kode' => $this->input->post('kode'),
-            'nama' => $this->input->post('nama'),
-            'sks' => $this->input->post('sks')
+            'kode' => $this->input->post('KODE'),
+            'nama' => $this->input->post('NAMA'),
+            'sks' => $this->input->post('SKS')
         ];
             $this->load->view('view-data-matakuliah', $data);
  }
