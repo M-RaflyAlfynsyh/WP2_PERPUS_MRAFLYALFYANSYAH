@@ -16,14 +16,14 @@
             </td>
         </tr>
             <tr>
-                <th>KODE MTK</th>
+                <th>Kode MTK</th>
                 <th>:</th>
                 <td>
                 <?= $kode; ?>
             </td>
             </tr>
             <tr>
-            <td>NAMA MTK</td>
+            <td>Nama MTK</td>
             <td>:</td>
             <td>
                 <?= $nama; ?>
